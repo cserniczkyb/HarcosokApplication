@@ -1,0 +1,28 @@
+D:\PROGRAMMING\14S\Cserniczky Barnabás\HarcosokApplication\HarcosokApplication\bin\Debug\HarcosokApplication.exe.config
+D:\PROGRAMMING\14S\Cserniczky Barnabás\HarcosokApplication\HarcosokApplication\bin\Debug\HarcosokApplication.exe
+D:\PROGRAMMING\14S\Cserniczky Barnabás\HarcosokApplication\HarcosokApplication\bin\Debug\HarcosokApplication.pdb
+D:\PROGRAMMING\14S\Cserniczky Barnabás\HarcosokApplication\HarcosokApplication\bin\Debug\Google.Protobuf.dll
+D:\PROGRAMMING\14S\Cserniczky Barnabás\HarcosokApplication\HarcosokApplication\bin\Debug\MySql.Data.dll
+D:\PROGRAMMING\14S\Cserniczky Barnabás\HarcosokApplication\HarcosokApplication\bin\Debug\Google.Protobuf.xml
+D:\PROGRAMMING\14S\Cserniczky Barnabás\HarcosokApplication\HarcosokApplication\bin\Debug\MySql.Data.xml
+D:\PROGRAMMING\14S\Cserniczky Barnabás\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\14S\Cserniczky Barnabás\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.Properties.Resources.resources
+D:\PROGRAMMING\14S\Cserniczky Barnabás\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.csproj.GenerateResource.Cache
+D:\PROGRAMMING\14S\Cserniczky Barnabás\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.exe
+D:\PROGRAMMING\14S\Cserniczky Barnabás\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.pdb
+D:\PROGRAMMING\14S\Cserniczky Barnabás\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.Form1.resources
+C:\Users\Barni\Documents\Barni\Suli\2.év\Prog\C#\HarcosokApplication\HarcosokApplication\bin\Debug\HarcosokApplication.exe.config
+C:\Users\Barni\Documents\Barni\Suli\2.év\Prog\C#\HarcosokApplication\HarcosokApplication\bin\Debug\HarcosokApplication.exe
+C:\Users\Barni\Documents\Barni\Suli\2.év\Prog\C#\HarcosokApplication\HarcosokApplication\bin\Debug\HarcosokApplication.pdb
+C:\Users\Barni\Documents\Barni\Suli\2.év\Prog\C#\HarcosokApplication\HarcosokApplication\bin\Debug\Google.Protobuf.dll
+C:\Users\Barni\Documents\Barni\Suli\2.év\Prog\C#\HarcosokApplication\HarcosokApplication\bin\Debug\MySql.Data.dll
+C:\Users\Barni\Documents\Barni\Suli\2.év\Prog\C#\HarcosokApplication\HarcosokApplication\bin\Debug\Google.Protobuf.xml
+C:\Users\Barni\Documents\Barni\Suli\2.év\Prog\C#\HarcosokApplication\HarcosokApplication\bin\Debug\MySql.Data.xml
+C:\Users\Barni\Documents\Barni\Suli\2.év\Prog\C#\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.csprojAssemblyReference.cache
+C:\Users\Barni\Documents\Barni\Suli\2.év\Prog\C#\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.Form1.resources
+C:\Users\Barni\Documents\Barni\Suli\2.év\Prog\C#\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.Properties.Resources.resources
+C:\Users\Barni\Documents\Barni\Suli\2.év\Prog\C#\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.csproj.GenerateResource.cache
+C:\Users\Barni\Documents\Barni\Suli\2.év\Prog\C#\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.csproj.CoreCompileInputs.cache
+C:\Users\Barni\Documents\Barni\Suli\2.év\Prog\C#\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.csproj.CopyComplete
+C:\Users\Barni\Documents\Barni\Suli\2.év\Prog\C#\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.exe
+C:\Users\Barni\Documents\Barni\Suli\2.év\Prog\C#\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.pdb
